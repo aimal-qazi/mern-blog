@@ -1,5 +1,5 @@
 .env
-.env.*             # Optional: env variants
+.env.*
 
 *.log
 npm-debug.log*
